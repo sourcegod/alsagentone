@@ -4,7 +4,7 @@ AlsaGenTone is a simple sine wave sound generator from Alsa Audio Api.
 Simple code example to show how using the alsa audio api.
 
 Inspired by AlsaTone project.
-`https://github.com/paly2/AlsaTone.git`  
+[AlsaTone](https://github.com/paly2/AlsaTone.git)
 
 
 ### How to compile it ?
@@ -19,5 +19,5 @@ Just write in a console :
 Examples
 `./alsagentone [frequency, default 440Hz] [duration, default 1 seconds]`  
 
-### For more advanced features, see also the alsatonic project:
-`https://github.com/sourcegod/alsatonic.git`  
+### For more advanced features, see also:
+[alsatonic](https://github.com/sourcegod/alsatonic.git "AlsaTonic project")
